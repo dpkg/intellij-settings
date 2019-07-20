@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="nupkg" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="n1ql" type="PLAIN_TEXT" />
+      <mapping ext="rml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

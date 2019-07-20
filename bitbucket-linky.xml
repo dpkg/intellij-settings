@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="bf80c61c-5ae5-3848-8a5b-73ccf1b62dc5" baseUri="https://stash:443/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="stash" port="7999" path="/" uuid="bf80c61c-5ae5-3848-8a5b-73ccf1b62dc5" />
+    </lookup>
+  </component>
+  <component name="Instance" id="9b25181e-140d-4ea7-8ddc-dee6ec1e37ef" version="7.1" />
+</application>
