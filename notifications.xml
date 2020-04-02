@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Compiler" displayType="NONE" shouldReadAloud="true" />
+    <notification groupId="Test Results: Run" displayType="TOOL_WINDOW" shouldReadAloud="true" />
+  </component>
+</application>
