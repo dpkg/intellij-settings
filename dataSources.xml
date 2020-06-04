@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ap20-dba-408" uuid="9c1e12cf-9514-492d-9a7f-16f687a2bd46">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ap20-dba-408\DEV_SILO:50001;database=CVENT_PROD</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ap20-dba-437" uuid="1bc501f4-6888-4fc6-9f50-2b355a551cd8">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ap20-dba-437\DEV_SILO:50001;database=CVENT_PROD</jdbc-url>
+    </data-source>
+  </component>
+</application>
