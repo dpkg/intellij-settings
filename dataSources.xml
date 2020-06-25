@@ -30,5 +30,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://ld01-dba1-201\OLTP:50001;database=CVENT_PROD</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ap20-dba-512" uuid="ad7e6fb2-4144-4b26-b67f-77bc5e55d2f8">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ap20-dba-512\DEV_SILO:50001;database=CVENT_PROD</jdbc-url>
+    </data-source>
   </component>
 </application>
